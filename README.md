@@ -1,6 +1,9 @@
 Raspbian-Wifi-Injector
 ======================
 
+jamesh wrote:
+  "How much support do you think you should be entitled to for a product that costs $35?"
+
 Update:
 
 Due to the ignorance expressed by the moderators of raspberrypi.org, I am pulling this program.  If you have a problem with that, talk with jamesh (moderator).
