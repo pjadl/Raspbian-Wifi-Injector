@@ -1,6 +1,10 @@
 Raspbian-Wifi-Injector
 ======================
 
+Update:
+
+The suckhole Yank Matthew Bennett, better known as abishru has decided to ban me.  This means I won't be releasing the final program to the public.  It's a pitty that shitheads like that stop the advancement of other users, just for a power trip.  But then again, he is American, so it's understood why.
+
 jamesh wrote:
   "How much support do you think you should be entitled to for a product that costs $35?"
 
