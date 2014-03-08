@@ -1,6 +1,8 @@
 Raspbian-Wifi-Injector
 ======================
 
+The project has been taken over by jasond- https://github.com/jasond-/Win32-Raspbian-Wifi-Injector/releases/tag/v0.9.7
+
 Update:
 
 The Yank Matthew Bennett, better known as abishru has decided to ban me.  This means I won't be releasing the final program to the public.  It's a pity that moderators like that stop the advancement of other users, just for a power trip.  But then again, he is American, so it's understood why.
